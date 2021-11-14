@@ -10,14 +10,14 @@ Al iniciar la aplicación se mostrará un panel con las opciones de configuraci�
 - Dificultad: la dificultad consta del tamaño del tablero y la velocidad de la serpiente.
 Dificultades:
 - Fácil:
- - Tamaño: 20x20
- - Velocidad: Baja
+-  Tamaño: 20x20
+-  Velocidad: Baja
 - Media:
- - Tamaño: 30x30
- - Velocidad: Media
+-  Tamaño: 30x30
+-  Velocidad: Media
 - Difícil:
- - Tamaño: 40x40
- - Velocidad: Alta
+-  Tamaño: 40x40
+-  Velocidad: Alta
 - Personalizada: Cualquier mezcla de opciones que no estén definidas anteriormente.
 A continuación se presentan dos botones:
 - Comenzar juego: Comienza el juego, mejor que estés preparado para el desafío.
@@ -41,4 +41,5 @@ Con solo la opción de salir de la aplicación.
 ## No implementado
 
 Sistema de encriptación para la tabla de puntuaciones.
+
 Poder volver a jugar sin necesidad de cerrar la aplicación.
