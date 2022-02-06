@@ -9,6 +9,9 @@ Aplicación hecha con java swing e hilos para su funcionamiento.
 ## Aviso
 Este código no está auditado ni es a prueba de fallos, si lo usas es bajo tu propia responsabilidad.
 
+## Descargar
+[Snake.jar](https://github.com/AlejandroGonzalezNavarro/Snake/releases/download/Test/Snake.jar)
+
 ## Uso
 Al iniciar la aplicación se mostrará un panel con las opciones de configuración de la partida:
 
